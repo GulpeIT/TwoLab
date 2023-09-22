@@ -22,8 +22,6 @@ public class Activity1 extends AppCompatActivity {
         button2 = (Button) findViewById(R.id.button2);
         button3 = (Button) findViewById(R.id.button3);
         button4 = (Button) findViewById(R.id.button4);
-
-        }
-
-
+    }
 }
+
